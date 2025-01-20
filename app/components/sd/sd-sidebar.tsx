@@ -1,5 +1,5 @@
 import { IconButton } from "@/app/components/button";
-import GithubIcon from "@/app/icons/e.svg";
+import GithubIcon from "@/app/icons/discovery.svg";
 import SDIcon from "@/app/icons/sd.svg";
 import ReturnIcon from "@/app/icons/return.svg";
 import HistoryIcon from "@/app/icons/history.svg";

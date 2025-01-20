@@ -12,7 +12,7 @@ import { nanoid } from "nanoid";
 import ExportIcon from "../icons/share.svg";
 import CopyIcon from "../icons/copy.svg";
 import DownloadIcon from "../icons/download.svg";
-import GithubIcon from "../icons/e.svg";
+import GithubIcon from "../icons/discovery.svg";
 import LoadingButtonIcon from "../icons/loading.svg";
 import ReloadButtonIcon from "../icons/reload.svg";
 import Locale from "../locales";

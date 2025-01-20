@@ -2,7 +2,7 @@
 
 import React from "react";
 import { IconButton } from "./button";
-import GithubIcon from "../icons/e.svg";
+import GithubIcon from "../icons/discovery.svg";
 import ResetIcon from "../icons/reload.svg";
 import { ISSUE_URL } from "../constant";
 import Locale from "../locales";

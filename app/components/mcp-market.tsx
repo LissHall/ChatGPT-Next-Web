@@ -7,7 +7,7 @@ import CloseIcon from "../icons/close.svg";
 import DeleteIcon from "../icons/delete.svg";
 import RestartIcon from "../icons/reload.svg";
 import EyeIcon from "../icons/eye.svg";
-import GithubIcon from "../icons/e.svg";
+import GithubIcon from "../icons/discovery.svg";
 import { List, ListItem, Modal, showToast } from "./ui-lib";
 import { useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";

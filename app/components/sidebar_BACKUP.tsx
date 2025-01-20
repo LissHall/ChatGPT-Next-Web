@@ -4,8 +4,7 @@ import styles from "./home.module.scss";
 
 import { IconButton } from "./button";
 import SettingsIcon from "../icons/settings.svg";
-import GithubIcon from "../icons/github.svg";
-import HomeEIcon from "../icons/letter-e.svg";
+import GithubIcon from "../icons/e.svg";
 import ChatGptIcon from "../icons/chatgpt.svg";
 import AddIcon from "../icons/add.svg";
 import DeleteIcon from "../icons/delete.svg";
@@ -342,7 +341,7 @@ export function SideBar(props: { className?: string }) {
                             <a href={ECLUBHOME_URL} target="_blank" rel="noopener noreferrer">
                                 <IconButton
                                     aria={Locale.Export.MessageFromChatGPT}
-                                    icon={<HomeEIcon />}
+                                    icon={<GithubIcon />}
                                     shadow
                                 />
                             </a>
